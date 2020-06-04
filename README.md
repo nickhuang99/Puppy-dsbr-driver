@@ -31,3 +31,4 @@ f) Need to download devx sfs from http://distro.ibiblio.org/puppylinux/puppy-tah
 g) Tahr is a very out of date system, my laptop cannot properly run firefox. commit github is somehow disabled.
 h) This Tahr is a 32bit version which is abandoned by most of distribution. It is very hard to get support from Ubuntu repositary as 32bits are usually no longer supported.
 i) Installing gcc is not finished yet and I have to abort system as it get frozen.
+j) test github wrap mode
