@@ -19,3 +19,15 @@ c) see if config file is needed to allow automatic loading??
 Stage 3: migrating Linux driver to Puppy 6.0x
 a) building sfs filesystem???
 b) testing module and figure out how to autoloading driver??
+
+
+06/03:
+a) install Tahr to my laptop by booting with USB-install tahr.
+b) use full install, also need to use gpartd to do partition to setup msdos boot flag.
+c) need to mount usb to allow copy files
+d) need to install grub4dos to boot
+e) install gcc cannot use ppm. 
+f) Need to download devx sfs from http://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/
+g) Tahr is a very out of date system, my laptop cannot properly run firefox. commit github is somehow disabled.
+h) This Tahr is a 32bit version which is abandoned by most of distribution. It is very hard to get support from Ubuntu repositary as 32bits are usually no longer supported.
+i) Installing gcc is not finished yet and I have to abort system as it get frozen.
