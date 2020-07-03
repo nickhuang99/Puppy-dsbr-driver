@@ -32,3 +32,8 @@ g) Tahr is a very out of date system, my laptop cannot properly run firefox. com
 h) This Tahr is a 32bit version which is abandoned by most of distribution. It is very hard to get support from Ubuntu repositary as 32bits are usually no longer supported.
 i) Installing gcc is not finished yet and I have to abort system as it get frozen.
 j) test github wrap mode
+
+
+
+07/03: milestone of hardware/software validation on both Ubuntu 18.04/Puppy Linux 6.05 (details as progress-log.html)
+
